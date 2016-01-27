@@ -8,7 +8,7 @@ import org.apache.log4j.Logger;
  * can't get where the UTF-8 string ends and throws a
  * ParseException.
  * 
- * @author pabloserrano
+ * 
  *
  */
 public class StringParser {
